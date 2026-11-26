@@ -61,3 +61,8 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ## Despliegue en producción
 
 Aplicación desplegada en Wasmer Edge mediante integración con GitHub.
+
+
+## Despliegue en producción
+
+Aplicación desplegada en Wasmer Edge mediante integración con GitHub.
